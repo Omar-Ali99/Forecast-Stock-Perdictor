@@ -1,8 +1,8 @@
-pystan==2.19.1.1
+pystan>=2.19.1.1
 fbprophet
 pandas
 plotly
-Pyrebase==3.0.27
+Pyrebase>=3.0.27
 streamlit
 yfinance
 
