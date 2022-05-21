@@ -1,6 +1,8 @@
-streamlit
-plotly
-yfinance==0.1.66
 pystan==2.19.1.1
-fbprophet
-pyrebase 
+fbprophet==0.7.1
+pandas==1.3.3
+plotly==5.1.0
+Pyrebase==3.0.27
+streamlit==1.0.0
+yfinance==0.1.66
+
